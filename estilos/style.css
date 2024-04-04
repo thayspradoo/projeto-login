@@ -23,7 +23,7 @@ main {
     width: 100vw;
 }
 
-#login {
+section#login {
     background-color: white;
     width: 250px;
     height: 500px;
@@ -37,7 +37,7 @@ main {
     overflow: hidden;  
 }
 
-div#img {
+section#login > div#img {
     display: block;
     background: url(../img/pexels-vlado-paunovic-3038740\ -\ Atalho.lnk) no-repeat;
     background-size: cover;
@@ -45,7 +45,7 @@ div#img {
     height: 200px;
 }
 
-#login > div#form {
+section#login > div#form {
     display: block;
     padding: 10px;
 
