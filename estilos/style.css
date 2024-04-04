@@ -38,7 +38,7 @@ section#login {
       
 }
 
-section#login > div#img {
+section#login > div#imgs {
     display: block;
     background: #5f2c82 url(../img/pexels-vlado-paunovic-3038740\ -\ Atalho.lnk) no-repeat;
     background-size: cover;
